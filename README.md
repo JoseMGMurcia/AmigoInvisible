@@ -1,5 +1,5 @@
 # AmigoInvisible
-Anonimous invisible friend lottery
+Anonimous Secret Santa lottery
 
 I was bored of webs  trying to steal a whole group list of emails with a simple click.
 This is just a launchable Java code, not yet an application.

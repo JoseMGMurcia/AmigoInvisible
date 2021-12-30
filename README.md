@@ -1,4 +1,4 @@
-# AmigoInvisible
+# SecretSanta
 Anonimous Secret Santa lottery
 
 I was bored of webs  trying to steal a whole group list of emails with a simple click.

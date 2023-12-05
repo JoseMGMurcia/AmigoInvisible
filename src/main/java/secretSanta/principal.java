@@ -1,4 +1,4 @@
-package amigo;
+package secretSanta;
 
 import java.util.ArrayList;
 import java.util.Properties;
@@ -81,8 +81,8 @@ public class principal {
 		
 	}
 	private static void asingPlayers(ArrayList<Participant> participants) {
-		participants.add( new Participant( "Pepe", 		"x@gmail.com", 		"Verónica",	null));
-		participants.add( new Participant( "Verónica", 	"x@gmail.com", 		"Pepe", 	null));
+		participants.add( new Participant( "Pepe", 		"x@gmail.com", 		"Verï¿½nica",	null));
+		participants.add( new Participant( "Verï¿½nica", 	"x@gmail.com", 		"Pepe", 	null));
 		participants.add( new Participant( "Irene", 	"x@gmail.com", 		"Alejandro",null));
 		participants.add( new Participant( "Alejandro",	"x@gmail.com", 		"Irene", 	null));
 		participants.add( new Participant( "Juan", 		"x@gmail.com", 		"Johana", 	null));
